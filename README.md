@@ -4,14 +4,8 @@ A [Claude Code](https://claude.ai/claude-code) skill for building ERC-8004 compl
 
 ## Install
 
-**Claude Code CLI:**
 ```bash
-claude /install-skill https://github.com/0xSardius/erc-8004-best-practices-skill
-```
-
-**npx:**
-```bash
-npx @anthropic-ai/claude-code /install-skill https://github.com/0xSardius/erc-8004-best-practices-skill
+npx skills add 0xSardius/erc-8004-best-practices-skill
 ```
 
 ## What's Covered
